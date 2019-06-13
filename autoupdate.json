@@ -1,0 +1,9 @@
+{
+    "Product":  "NemosMiner",
+    "Version":  "3.8.0.0",
+    "Update":  true,
+    "AutoUpdate":  true,
+    "RequireRestart":  false,
+    "Uri":  "https://github.com/nemosminer/NemosMiner/releases/download/3.8.0.0/NemosMiner-3.8.0.0.zip",
+    "Message":  "https://github.com/Minerx117/NemosMiner/releases"
+}
