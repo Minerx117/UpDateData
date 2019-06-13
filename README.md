@@ -1,0 +1,2 @@
+# UpDateData
+NemosMiner UpDateData
