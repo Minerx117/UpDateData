@@ -297,7 +297,7 @@
       "Balance":"balance"
    },
    {  
-      "Name":"miningpoolhub",
+      "Name":"mph",
       "EarnTrackSupport":"yes",
       "PoolUri":"https://miningpoolhub.com/",
       "WalletUri":"https://miningpoolhub.com/index.php?page=api\u0026action=getuserallbalances\u0026api_key=",
