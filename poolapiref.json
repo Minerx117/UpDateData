@@ -297,7 +297,7 @@
       "Balance":"balance"
    },
    {  
-      "Name":"mph",
+      "Name":"miningpoolhub",
       "EarnTrackSupport":"yes",
       "PoolUri":"https://miningpoolhub.com/",
       "WalletUri":"https://miningpoolhub.com/index.php?page=api\u0026action=getuserallbalances\u0026api_key=",
@@ -317,5 +317,16 @@
       "PaymentThreshold":0.001,
       "Total":"balance",
       "Balance":"balance"
+   },
+   {  
+      "Name":"nicehashV2",
+      "EarnTrackSupport":"yes",
+      "PoolUri":"http://www.nicehash.com",
+      "WalletUri":"https://api2.nicehash.com/main/api/v2/mining/external/",
+      "StatusUri":"https://api2.nicehash.com/main/api/v2/public/simplemultialgo/info/",
+      "CurrenciesUri":"",
+      "PaymentThreshold":0.001,
+      "Total":"unpaidAmount",
+      "Balance":"externalBalance"
    }
 ]
