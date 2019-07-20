@@ -1,6 +1,6 @@
 {
     "Product":  "NemosMiner",
-    "Version":  "3.8.0.5",
+    "Version":  "3.8.0.6",
     "Update":  true,
     "Message":  "https://github.com/Minerx117/NemosMiner/releases",
     "MinNVIDIADriverVersion":  "418.96"
