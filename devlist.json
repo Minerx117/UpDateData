@@ -2,26 +2,30 @@
     {
         "Name":  "MrPlus",
         "Wallet":  "134bw4oTorEJUUVFhokDQDfNqTs7rBMNYy",
-        "UserName":  "MrPlus"
+        "UserName":  "MrPlus",
+        "PasswordCurrency":  "BTC"
     },
     {
         "Name":  "Nemo",
         "Wallet":  "1QGADhdMRpp9Pk5u5zG1TrHKRrdK5R81TE",
-        "UserName":  "nemo"
+        "UserName":  "nemo",
+        "PasswordCurrency":  "BTC"
     },
     {
         "Name":  "aaronsace",
         "Wallet":  "1Q24z7gHPDbedkaWDTFqhMF8g7iHMehsCb",
-        "UserName":  "aaronsace"
+        "UserName":  "aaronsace",
+        "PasswordCurrency":  "BTC"
     },
     {
         "Name":  "grantemsley",
         "Wallet":  "16Qf1mEk5x2WjJ1HhfnvPnqQEi2fvCeity",
-        "UserName":  "grantemsley"
+        "UserName":  "grantemsley",
+        "PasswordCurrency":  "BTC"
     },
     {
         "Name":  "uselessguru",
-	     "Wallet":  "1GPSq8txFnyrYdXL8t6S94mYdF8cGqVQJF",   
-   	  "UserName":  "uselessguru"    
+        "Wallet":  "1GPSq8txFnyrYdXL8t6S94mYdF8cGqVQJF",   
+        "UserName":  "uselessguru",
+        "PasswordCurrency":  "BTC"
     }
-]
