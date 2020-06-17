@@ -1,6 +1,6 @@
 [
   {
-    "Name": "ahashpool",
+    "Name": "AHashPool",
     "EarnTrackSupport": "yes",
     "PoolUri": "https://www.ahashpool.com",
     "WalletUri": "https://www.ahashpool.com/api/walletEx?address=",
@@ -11,7 +11,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "ahashpool24hr",
+    "Name": "AHashPool24hr",
     "EarnTrackSupport": "yes",
     "PoolUri": "https://www.ahashpool.com",
     "WalletUri": "https://www.ahashpool.com/api/walletEx?address=",
@@ -22,7 +22,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "blazepool",
+    "Name": "BlazePool",
     "EarnTrackSupport": "Yes",
     "PoolUri": "http://www.blazepool.com",
     "WalletUri": "http://api.blazepool.com/wallet/",
@@ -33,7 +33,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "blazepool24hr",
+    "Name": "BlazePool24hr",
     "EarnTrackSupport": "Yes",
     "PoolUri": "http://www.blazepool.com",
     "WalletUri": "http://api.blazepool.com/wallet/",
@@ -44,7 +44,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "blockmasters",
+    "Name": "BlockMasters",
     "EarnTrackSupport": "Yes",
     "PoolUri": "http://blockmasters.co/",
     "WalletUri": "http://blockmasters.co/api/walletEx?address=",
@@ -55,7 +55,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "blockmasters24hr",
+    "Name": "BlockMasters24hr",
     "EarnTrackSupport": "Yes",
     "PoolUri": "http://blockmasters.co/",
     "WalletUri": "http://blockmasters.co/api/walletEx?address=",
@@ -66,7 +66,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "nlpool",
+    "Name": "NLPool",
     "EarnTrackSupport": "yes",
     "PoolUri": "https://www.nlpool.nl",
     "WalletUri": "https://www.nlpool.nl/api/walletEx?address=",
@@ -77,7 +77,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "nlpool24hr",
+    "Name": "NLPool24hr",
     "EarnTrackSupport": "yes",
     "PoolUri": "https://www.nlpool.nl",
     "WalletUri": "https://www.nlpool.nl/api/walletEx?address=",
@@ -88,7 +88,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "zpool",
+    "Name": "Zpool",
     "EarnTrackSupport": "Yes",
     "PoolUri": "http://www.zpool.ca",
     "WalletUri": "http://www.zpool.ca/api/walletEx?address=",
@@ -99,7 +99,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "zpool24hr",
+    "Name": "Zpool24hr",
     "EarnTrackSupport": "yes",
     "PoolUri": "http://www.zpool.ca",
     "WalletUri": "http://www.zpool.ca/api/walletEx?address=",
@@ -110,7 +110,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "zergpool",
+    "Name": "ZergPool",
     "EarnTrackSupport": "yes",
     "PoolUri": "http://zergpool.com",
     "WalletUri": "http://api.zergpool.com:8080/api/walletEx?address=",
@@ -121,7 +121,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "zergpool24hr",
+    "Name": "ZergPool24hr",
     "EarnTrackSupport": "yes",
     "PoolUri": "http://http://zergpool.com",
     "WalletUri": "http://api.zergpool.com:8080/api/walletEx?address=",
@@ -132,7 +132,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "zergpoolcoins",
+    "Name": "ZergPoolCoins",
     "EarnTrackSupport": "yes",
     "PoolUri": "http://http://zergpool.com",
     "WalletUri": "http://api.zergpool.com:8080/api/walletEx?address=",
@@ -143,7 +143,7 @@
     "Balance": "balance"
   },
   {
-    "Name": "mph",
+    "Name": "MPH",
     "EarnTrackSupport": "yes",
     "PoolUri": "https://miningpoolhub.com/",
     "WalletUri": "https://miningpoolhub.com/index.php?page=api&action=getuserallbalances&api_key=",
@@ -154,7 +154,7 @@
     "Balance": "confirmed"
   },
   {
-    "Name": "nicehashV2",
+    "Name": "NicehashV2",
     "EarnTrackSupport": "yes",
     "PoolUri": "http://www.nicehash.com",
     "WalletUri": "https://api2.nicehash.com/main/api/v2/mining/external/",
